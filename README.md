@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm John Gao Jiahao</h1>
-<h3 align="center">A passionate software developer from Singapore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johngao122" alt="johngao122" /></a> </p>
 
