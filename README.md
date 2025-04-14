@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-new-dl0.pages.dev/](https://portfolio-new-dl0.pages.dev/)
 
-- 📝 I regularly write articles on [mern-blog-kgjf.vercel.app](mern-blog-kgjf.vercel.app)
+- 📝 I regularly(maybe) write articles on [mern-blog-kgjf.vercel.app](mern-blog-kgjf.vercel.app)
 
 - 💬 Ask me about **React, NextJS**
 
