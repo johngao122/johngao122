@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johngao122" alt="johngao122" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Databases, AI Engineering**
+- 🌱 I’m currently learning **Databases, AI Engineering**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-new-dl0.pages.dev/](https://portfolio-new-dl0.pages.dev/)
 
