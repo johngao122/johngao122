@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Databases, AI Engineering**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-new-dl0.pages.dev/](https://portfolio-new-dl0.pages.dev/)
+- 👨‍💻 Some of my notable projects are at [https://portfolio-new-dl0.pages.dev/](https://portfolio-new-dl0.pages.dev/)
 
 - 📝 I regularly(maybe) write articles [here](https://blog-mu-flame-50.vercel.app/)
 
